@@ -22,3 +22,4 @@ poetry.lock
 # OS files
 .DS_Store
 Thumbs.db
+CorePython.code-workspace
