@@ -23,3 +23,10 @@ poetry.lock
 .DS_Store
 Thumbs.db
 CorePython.code-workspace
+
+# Slides and zip files
+zip/
+slides/
+**/slides/
+**/slides/**
+zip_do_not_commit/

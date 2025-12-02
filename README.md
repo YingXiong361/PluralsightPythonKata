@@ -1,6 +1,6 @@
 # core-python
 
-This repository is a minimal scaffold for a Python package using Poetry.
+This repository shows a minimal scaffold for a Python package using Poetry.
 
 Structure
 - `core_python/` — package root

@@ -8,6 +8,7 @@ packages = [ { include = "core_python" } ]
 
 [tool.poetry.dependencies]
 python = ">=3.11,<4.0"
+requests = "^2.32.5"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^7.4"
