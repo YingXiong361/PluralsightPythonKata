@@ -1,4 +1,0 @@
-ML: Machine Learning
-TBH: To be honest
-IDK: I don't know
-UI: User interface
